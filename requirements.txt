@@ -93,7 +93,7 @@ toml==0.10.2
     # via pytest
 typing-extensions==3.10.0.0
     # via pydantic
-urllib3==1.26.4
+urllib3==1.26.5
     # via requests
 wcmatch==8.1.2
     # via ansible-lint
